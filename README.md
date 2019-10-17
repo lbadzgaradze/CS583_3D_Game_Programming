@@ -1,3 +1,11 @@
+User Interface for D&D Character Generator implemented in Unity using C#.
+- non- diegetic user interface
+- multiple scenes
+- Singleton pattern
+- UI Controller software design pattern
+- JSON output
+- no external APIs
+
 Created by Levan Badzgaradze
 San Diego State University
 Date 10/3/2019
