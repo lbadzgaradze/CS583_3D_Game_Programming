@@ -1,6 +1,5 @@
 Created by Levan Badzgaradze
 San Diego State University
-Red ID 821 008 962
 Date 10/3/2019
 Project 01
 CS583 (Professor Steve Price)
